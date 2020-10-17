@@ -1,7 +1,7 @@
 import Vue from 'vue'
 
 export const userKey = '__sharppen_user'
-export const baseApiUrl = 'http://localhost:3000'
+export const baseApiUrl = 'https://backend-sharppen.herokuapp.com/'
 
 export function showError(e) {
     if(e && e.response && e.response.data) {
