@@ -1,24 +1,4 @@
-# frontend
+# frontend-sharppen
+Frontend da Aplicação SharpPen: a Rede Social do Vestibular, focada nas interações entre as Faculdades e seus Vestibulandos.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Observação: Este projeto foi desenvolvido para o Trabalho de Graduação do autor no curso de Análise e Desenvolvimento de Sistemas pela Fatec Campinas.
