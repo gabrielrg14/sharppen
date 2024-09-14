@@ -2,6 +2,24 @@
   "name": "sharppen",
   "version": "1.0.0",
   "private": true,
+  "description": "The Vestibular Social Network, focused on the interactions between Colleges and their Entrance Students.",
+  "author": "Gabriel Rapucci Gonzalez <gabrielrapuccigonzalez14@hotmail.com> (https://gabrielrapucci.com.br)",
+  "homepage": "https://github.com/gabrielrg14/sharppen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielrg14/sharppen"
+  },
+  "bugs": {
+    "url": "https://github.com/gabrielrg14/sharppen/issues"
+  },
+  "keywords": [
+    "vuejs",
+    "sharppen",
+    "social-network",
+    "front-end",
+    "portfolio"
+  ],
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
